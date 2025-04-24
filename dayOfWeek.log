@@ -1,0 +1,36 @@
+[evaluate dayOfWeek.py]
+
+----------------------------------------------------------------------------
+Enter an int between 1 and 12 representing the month: 7
+Enter an int between 1 and 31 representing the day inthe month: 4
+Enter an int for the year, e.g. 2021: 1776
+7/4/1776 is on day 4.
+----------------------------------------------------------------------------
+
+[evaluate dayOfWeek.py]
+
+----------------------------------------------------------------------------
+Enter an int between 1 and 12 representing the month: 7
+Enter an int between 1 and 31 representing the day inthe month: 1
+Enter an int for the year, e.g. 2021: 1961
+7/1/1961 is on day 6.
+----------------------------------------------------------------------------
+
+[evaluate dayOfWeek.py]
+
+----------------------------------------------------------------------------
+Enter an int between 1 and 12 representing the month: 9
+Enter an int between 1 and 31 representing the day inthe month: 16
+Enter an int for the year, e.g. 2021: 2003
+9/16/2003 is on day 2.
+----------------------------------------------------------------------------
+
+[evaluate dayOfWeek.py]
+
+----------------------------------------------------------------------------
+Enter an int between 1 and 12 representing the month: 8
+Enter an int between 1 and 31 representing the day inthe month: 20
+Enter an int for the year, e.g. 2021: 2003
+8/20/2003 is on day 3.
+----------------------------------------------------------------------------
+

@@ -1,0 +1,32 @@
+[evaluate radius.py]
+Enter the radius of a circle: 10
+The diameter of a circle with radius 10.0is 20.0.
+The circumference of a circle with radius10.0 is 62.8319.
+The area of a circle with radius 10.0 is 314.1593.
+The volume of a circle with radius 10.0 is 2356.1945.
+The surface area of a circle with radius 10.0 is1256.6371.
+
+[evaluate radius.py]
+Enter the radius of a circle: -10
+The diameter of a circle with radius -10.0is 20.0.
+The circumference of a circle with radius-10.0 is 62.8319.
+The area of a circle with radius -10.0 is 314.1593.
+The volume of a circle with radius -10.0 is 2356.1945.
+The surface area of a circle with radius -10.0 is1256.6371.
+
+[evaluate radius.py]
+Enter the radius of a circle: 7.5
+The diameter of a circle with radius 7.5is 15.0.
+The circumference of a circle with radius7.5 is 47.1239.
+The area of a circle with radius 7.5 is 176.7146.
+The volume of a circle with radius 7.5 is 994.0196.
+The surface area of a circle with radius 7.5 is706.8583.
+
+[evaluate radius.py]
+Enter the radius of a circle: 22.16
+The diameter of a circle with radius 22.16is 44.32.
+The circumference of a circle with radius22.16 is 139.2354.
+The area of a circle with radius 22.16 is 1542.7281.
+The volume of a circle with radius 22.16 is 25640.1407.
+The surface area of a circle with radius 22.16 is6170.9123.
+

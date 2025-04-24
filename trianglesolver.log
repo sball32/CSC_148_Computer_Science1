@@ -1,0 +1,142 @@
+Python 3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]
+Type "help", "copyright", "credits" or "license" for more information.
+[evaluate trianglesolver.py]
+
+**************************************************
+* Welcome to Triangle Solver! *
+**************************************************
+Using the prompts below, enter the x and y values for the three points of your triangle.
+
+Enter x1: -2
+Enter y1: -4
+Enter x2: 4
+Enter y2: 8
+Enter x3: 17
+Enter y3: 34
+
+The three points entered are:
+(-2.0, -4.0) (4.0, 8.0) (17.0, 34.0)
+
+These points are collinear and cannot form a triangle.
+[evaluate trianglesolver.py]
+
+**************************************************
+* Welcome to Triangle Solver! *
+**************************************************
+Using the prompts below, enter the x and y values for the three points of your triangle.
+
+Enter x1: 5
+Enter y1: 9
+Enter x2: 7
+Enter y2: -4
+Enter x3: -2
+Enter y3: 1
+
+The three points entered are:
+(5.0, 9.0) (7.0, -4.0) (-2.0, 1.0)
+
+The lengths of the sides are: 
+Side a: 10.2956
+Side b: 10.6301
+Side c: 13.1529
+
+The three angles are: 
+Angle A is 0.8715 radians, which is 49.9321 degrees.
+Angle B is 0.911 radians, which is 52.1992 degrees.
+Angle C is 1.3591 radians, which is 77.8687 degrees.
+[evaluate trianglesolver.py]
+
+**************************************************
+* Welcome to Triangle Solver! *
+**************************************************
+Using the prompts below, enter the x and y values for the three points of your triangle.
+
+Enter x1: 7
+Enter y1: -10.5
+Enter x2: -9.25
+Enter y2: -15.75
+Enter x3: -4
+Enter y3: -3.9
+
+The three points entered are:
+(7.0, -10.5) (-9.25, -15.75) (-4.0, -3.9)
+
+The lengths of the sides are: 
+Side a: 12.9609
+Side b: 12.8281
+Side c: 17.077
+
+The three angles are: 
+Angle A is 0.8529 radians, which is 48.8682 degrees.
+Angle B is 0.8413 radians, which is 48.2004 degrees.
+Angle C is 1.4474 radians, which is 82.9314 degrees.
+[evaluate trianglesolver.py]
+
+**************************************************
+* Welcome to Triangle Solver! *
+**************************************************
+Using the prompts below, enter the x and y values for the three points of your triangle.
+
+Enter x1: 1
+Enter y1: 2
+Enter x2: 3
+Enter y2: 4
+Enter x3: 5
+Enter y3: 6
+
+The three points entered are:
+(1.0, 2.0) (3.0, 4.0) (5.0, 6.0)
+
+These points are collinear and cannot form a triangle.
+[evaluate trianglesolver.py]
+
+**************************************************
+* Welcome to Triangle Solver! *
+**************************************************
+Using the prompts below, enter the x and y values for the three points of your triangle.
+
+Enter x1: -1
+Enter y1: 35
+Enter x2: 23
+Enter y2: 7
+Enter x3: -9.007
+Enter y3: 11.456
+
+The three points entered are:
+(-1.0, 35.0) (23.0, 7.0) (-9.007, 11.456)
+
+The lengths of the sides are: 
+Side a: 32.3157
+Side b: 24.8683
+Side c: 36.8782
+
+The three angles are: 
+Angle A is 1.0364 radians, which is 59.3838 degrees.
+Angle B is 0.7238 radians, which is 41.473 degrees.
+Angle C is 1.3813 radians, which is 79.1433 degrees.
+[evaluate trianglesolver.py]
+
+**************************************************
+* Welcome to Triangle Solver! *
+**************************************************
+Using the prompts below, enter the x and y values for the three points of your triangle.
+
+Enter x1: 99
+Enter y1: -32
+Enter x2: 12.75
+Enter y2: 32.55
+Enter x3: -6.04
+Enter y3: 3.14
+
+The three points entered are:
+(99.0, -32.0) (12.75, 32.55) (-6.04, 3.14)
+
+The lengths of the sides are: 
+Side a: 34.9
+Side b: 110.762
+Side c: 107.7301
+
+The three angles are: 
+Angle A is 0.3196 radians, which is 18.3143 degrees.
+Angle B is 1.4968 radians, which is 85.763 degrees.
+Angle C is 1.3251 radians, which is 75.9227 degrees.

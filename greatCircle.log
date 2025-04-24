@@ -1,0 +1,86 @@
+Python 3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]
+Type "help", "copyright", "credits" or "license" for more information.
+[evaluate greatCircle2.py]
+
+****************************************************************************
+Welcome to the Great Circle calculator!
+
+Enter the name of the first location:  the Don Meyers Building at AU
+Enter the latitude (N) of the first location: 38.9362
+Enter the longitude (E) of the first location: -77.0882
+
+Enter the name of the second location: the Great Cats Exhibit at the National Zoo
+Enter the latitude (N) of the second location: 38.9285
+Enter the longitude (E) of the second location: -77.0487
+The distance in miles between  the Don Meyers Building at AU and the Great Cats Exhibit at the National Zoo is 2.19.
+****************************************************************************
+[evaluate greatCircle2.py]
+
+****************************************************************************
+Welcome to the Great Circle calculator!
+
+Enter the name of the first location: the Eiffel Tower in Paris, France
+Enter the latitude (N) of the first location: 48.8539
+Enter the longitude (E) of the first location: 2.2913
+
+Enter the name of the second location: the Taj Mahal in Uttar Pradesh, India
+Enter the latitude (N) of the second location: 27.1751
+Enter the longitude (E) of the second location:  78.0399
+The distance in miles between the Eiffel Tower in Paris, France and the Taj Mahal in Uttar Pradesh, India is 4200.41.
+****************************************************************************
+[evaluate greatCircle2.py]
+
+****************************************************************************
+Welcome to the Great Circle calculator!
+
+Enter the name of the first location:  Easter Island, Chile
+Enter the latitude (N) of the first location: -27.1260
+Enter the longitude (E) of the first location:  109.4090
+
+Enter the name of the second location: Tampere, Finland
+Enter the latitude (N) of the second location: 61.6316
+Enter the longitude (E) of the second location: 23.5494
+The distance in miles between  Easter Island, Chile and Tampere, Finland is 7722.1.
+****************************************************************************
+[evaluate greatCircle2.py]
+
+****************************************************************************
+Welcome to the Great Circle calculator!
+
+Enter the name of the first location: American University Constitution Hall 
+Enter the latitude (N) of the first location: 38.9365105
+Enter the longitude (E) of the first location: -77.0872828
+
+Enter the name of the second location: Home (Austin, Texas)
+Enter the latitude (N) of the second location: 30.3687781
+Enter the longitude (E) of the second location: -97.8588144
+The distance in miles between American University Constitution Hall  and Home (Austin, Texas) is 1316.49.
+****************************************************************************
+[evaluate greatCircle2.py]
+
+****************************************************************************
+Welcome to the Great Circle calculator!
+
+Enter the name of the first location: Colosseum Italy, Rome 
+Enter the latitude (N) of the first location: 41.8902102
+Enter the longitude (E) of the first location: 12.489656
+
+Enter the name of the second location: The United States White House 
+Enter the latitude (N) of the second location: 38.9058165
+Enter the longitude (E) of the second location: -77.042694
+The distance in miles between Colosseum Italy, Rome  and The United States White House  is 4484.98.
+****************************************************************************
+[evaluate greatCircle2.py]
+
+****************************************************************************
+Welcome to the Great Circle calculator!
+
+Enter the name of the first location: United States Capitol Building
+Enter the latitude (N) of the first location: 38.8931315
+Enter the longitude (E) of the first location: -77.0149548
+
+Enter the name of the second location: Lincoln Memorial
+Enter the latitude (N) of the second location: 38.8928454
+Enter the longitude (E) of the second location: -77.0522825
+The distance in miles between United States Capitol Building and Lincoln Memorial is 2.01.
+****************************************************************************
